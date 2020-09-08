@@ -2,7 +2,6 @@
 2020-08-08 22:47:22,319 DEBUG com.qdm.cgassessment.CareGiverAssessmentServiceApplication [restartedMain] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
 2020-08-08 22:47:22,319 INFO com.qdm.cgassessment.CareGiverAssessmentServiceApplication [restartedMain] The following profiles are active: dev
 2020-08-08 22:47:33,511 INFO com.qdm.cgassessment.CareGiverAssessmentServiceApplication [restartedMain] Starting CareGiverAssessmentServiceApplication on DESKTOP-JUID77J with PID 13532 (D:\example\care-giver-assessment-service\target\classes started by Arul in D:\example\care-giver-assessment-service)
-2020-08-08 22:47:33,527 DEBUG com.qdm.cgassessment.CareGiverAssessmentServiceApplication [restartedMain] Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
 2020-08-08 22:47:33,527 INFO com.qdm.cgassessment.CareGiverAssessmentServiceApplication [restartedMain] The following profiles are active: dev
 2020-08-08 22:47:45,613 INFO com.qdm.cgassessment.CareGiverAssessmentServiceApplication [restartedMain] Started CareGiverAssessmentServiceApplication in 13.032 seconds (JVM running for 14.749)
 2020-08-08 22:48:01,926 INFO com.qdm.cgassessment.serviceimpl.InitialAssessmentServiceImpl [http-nio-8080-exec-1] Social model values SocialHistoryAssessmentModel(id=0, marital_status=Single, present_occupation=developer, past_occupation=developer, religion_of_family=hindu, emotional_status=Supportive, financial_status=Good, other_social_problems=no, genogram_tree=null)
